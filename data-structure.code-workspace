@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"__functional_03": "cpp",
+			"functional": "cpp",
+			"ios": "cpp",
+			"__tuple": "cpp",
+			"array": "cpp",
+			"bitset": "cpp",
+			"initializer_list": "cpp",
+			"iterator": "cpp",
+			"memory": "cpp",
+			"string": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
