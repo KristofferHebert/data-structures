@@ -30,7 +30,7 @@ void combine_arrs(int * arr, int begin_arr_one, int begin_arr_two, int end_arr_o
 }
 
 void merge_sort(int * arr, int begin, int end) {
-  if (begin > end) {
+  if (begin >= end) {
     return;
   }
   int middle = (begin + end) / 2;
