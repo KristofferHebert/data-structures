@@ -16,7 +16,11 @@
 			"iterator": "cpp",
 			"memory": "cpp",
 			"string": "cpp",
-			"utility": "cpp"
+			"utility": "cpp",
+			"__locale": "cpp",
+			"__bit_reference": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp"
 		}
 	}
 }
